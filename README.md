@@ -10,11 +10,6 @@ This project uses a neural network model to predict customer churn based on subs
 <img width="725" height="736" alt="Screenshot 2025-07-13 110545" src="https://github.com/user-attachments/assets/9a962944-103d-4ec7-876e-16ded1105317" />
 
 
-> The image above shows the model's confusion matrix, visualizing prediction results.
-
-
-> _The images above show the model's confusion matrix and training accuracy over epochs. Replace the URLs with your actual uploaded GitHub-hosted image links._
-
 ---
 
 ## 📈 Accuracy
