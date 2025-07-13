@@ -5,8 +5,10 @@ This project uses a neural network model to predict customer churn based on subs
 ---
 
 ## 🖼️ Sample Output / Architecture
+<img width="644" height="491" alt="Screenshot 2025-07-13 110516" src="https://github.com/user-attachments/assets/9be9dda2-fd02-4c65-ace9-a34ac5d8504e" />
 
-![Confusion Matrix]("C:\\Users\\DELL\\OneDrive\\Pictures\\Screenshots\\Screenshot 2025-07-13 110516.png")
+<img width="725" height="736" alt="Screenshot 2025-07-13 110545" src="https://github.com/user-attachments/assets/9a962944-103d-4ec7-876e-16ded1105317" />
+
 
 > The image above shows the model's confusion matrix, visualizing prediction results.
 
