@@ -39,11 +39,6 @@ The model uses the following key features:
 
 ---
 
-## 🛠 How to Add Images to GitHub README Without Uploading to Repo
-
-1. Go to your GitHub repository → **Issues** → **New Issue**
-2. Drag and drop your screenshot(s) into the comment box
-3. GitHub will upload them and give you direct image links like:
 
 
 
