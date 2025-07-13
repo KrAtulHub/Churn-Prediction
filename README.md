@@ -6,9 +6,10 @@ This project uses a neural network model to predict customer churn based on subs
 
 ## 🖼️ Sample Output / Architecture
 
-"C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-07-13 110516.png"
+![Confusion Matrix](https://user-images.githubusercontent.com/your-upload-id1.png)
+![Training Accuracy](https://user-images.githubusercontent.com/your-upload-id2.png)
 
-> _Replace the image above with any accuracy/loss plot or model diagram (like a screenshot from your notebook)._
+> _The images above show the model's confusion matrix and training accuracy over epochs. Replace the URLs with your actual uploaded GitHub-hosted image links._
 
 ---
 
@@ -33,6 +34,14 @@ The model uses the following key features:
   - Payment Method
 
 ---
+
+## 🛠 How to Add Images to GitHub README Without Uploading to Repo
+
+1. Go to your GitHub repository → **Issues** → **New Issue**
+2. Drag and drop your screenshot(s) into the comment box
+3. GitHub will upload them and give you direct image links like:
+
+
 
 
 
