@@ -6,7 +6,8 @@ This project uses a neural network model to predict customer churn based on subs
 
 ## 🖼️ Sample Output / Architecture
 
-![Model Output](images/output_plot.png)
+"C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-07-13 110516.png"
+"C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-07-13 110545.png"
 
 > _Replace the image above with any accuracy/loss plot or model diagram (like a screenshot from your notebook)._
 
