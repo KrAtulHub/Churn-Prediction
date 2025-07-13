@@ -39,6 +39,17 @@ The model uses the following key features:
 
 ---
 
+## 🛠️ Technologies Used
+
+- **Python** (TensorFlow, Keras, Pandas, scikit-learn, Matplotlib)
+- **Jupyter Notebook**
+- Cleaned `.csv` dataset 
+
+---
+
+## ✍️ Author
+
+Made by **Atul Kumar Prasad**
 
 
 
